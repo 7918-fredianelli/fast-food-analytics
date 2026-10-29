@@ -75,7 +75,7 @@ No seu terminal, na pasta raiz do projeto, siga os passos:
 
 Clone o repositório:
 
-git clone [https://github.com/](https://github.com/)[SEU_UTILIZADOR]/[NOME_DO_REPOSITORIO].git
+git clone [https://github.com/](https://github.com/)[SEU_UTILIZADOR]/[NOME_DO_REPOSITORIO](https://github.com/7918-fredianelli/fast-food-analytics.git)].git
 cd Fast-Food-Analytics
 Instale as dependências:
 
@@ -91,4 +91,4 @@ python src/eda_fastfood.py
 ## Autor
 Desenvolvido por Vinícius Fredeanelle Sucupira de Assis
 
-LinkedIn | Notion Portfolio
+[LinkedIn](https://www.linkedin.com/in/viniciusfredeanelle/) | [Notion Portfolio] (https://spangle-shrimp-fa8.notion.site/Portf-lio-de-An-lise-de-Dados-Vin-cius-Fredeanelle-3e423f9a540a80ca835ee8b4c540c17a)
